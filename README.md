@@ -10,8 +10,8 @@ Interpretability via Meta-path-based Information Fusion) under review
 - scipy==1.8.1
 
 ### Data
-The procedure of data collection is described in our manuscript, and the source data is accessible upon request.
+The procedure of data collection is described in our manuscript, and the metadata is accessible upon request.
 
 
 ### How to run the code?
-run 'MP-DDI.py'.
+Put the HIN data (i.e., six adjacency matrices) under "dataset", and run "python MP-DDI.py" in the command line.
